@@ -31,7 +31,7 @@ Versão 1.0 ( Implementada )
 - Consulta.<br>
 - Cálculo Automático de Saldo.<br>
 
-Versão 2.0 ( Planejada )
+Versão 2.0 ( Implementada )
 - Relatório de Vendas.<br>
 - Top 10 Livros Mais Vendidos.<br>
 - Top 10 Autores Com Mais Vendas.<br>
