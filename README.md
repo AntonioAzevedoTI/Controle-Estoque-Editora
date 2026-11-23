@@ -55,7 +55,7 @@ Depois:<br>
 - Microsoft Excel.<br>
 - Fórmulas Avançadas.<br>
 - Validação de Dados.<br>
-- Tabelas Finâmicas.<br>
+- Tabelas Dinâmicas.<br>
 
 
 
