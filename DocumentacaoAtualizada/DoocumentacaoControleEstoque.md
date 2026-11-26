@@ -2,7 +2,7 @@
 
 **Sumário**
 
-[**1 – Introdução** 3](#2--introducao)
+[**1 – Introdução** 3](#1--introducao)
 
 [**2 – Problema** 3](#2--problema)
 
