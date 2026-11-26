@@ -1,0 +1,7 @@
+# Ignorar modelos locais e arquivos temporários do Office
+*.docx
+*.DOCX
+*.doc
+*.pptx
+*.PPTX
+*.ppt
